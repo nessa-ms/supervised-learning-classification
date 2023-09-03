@@ -1,5 +1,5 @@
 # supervised-learning-classification
-# This Repository contains a codespace with my groups projects at HSAKA (Hessische Schülerakademie, 2023, topic: Math "machine learning with python") 
+# This Repository contains a codespace with my group's projects at HSAKA (Hessische Schülerakademie, 2023, topic: Math "machine learning with python") 
 # -insert link to HSAKA 2023 Oberstufe Documentation once available-
 
 # SOURCES
